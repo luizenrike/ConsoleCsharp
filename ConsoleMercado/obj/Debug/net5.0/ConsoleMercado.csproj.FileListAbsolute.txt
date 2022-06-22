@@ -1,0 +1,16 @@
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\bin\Debug\net5.0\ConsoleMercado.exe
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\bin\Debug\net5.0\ConsoleMercado.deps.json
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\bin\Debug\net5.0\ConsoleMercado.runtimeconfig.json
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\bin\Debug\net5.0\ConsoleMercado.runtimeconfig.dev.json
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\bin\Debug\net5.0\ConsoleMercado.dll
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\bin\Debug\net5.0\ConsoleMercado.pdb
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.csproj.AssemblyReference.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.AssemblyInfoInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.AssemblyInfo.cs
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.dll
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\refint\ConsoleMercado.dll
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.pdb
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ConsoleMercado.genruntimeconfig.cache
+C:\Users\luizh\OneDrive\Documentos\Github\C#\ConsoleMercado\obj\Debug\net5.0\ref\ConsoleMercado.dll

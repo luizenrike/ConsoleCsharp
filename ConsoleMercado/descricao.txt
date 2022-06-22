@@ -1,0 +1,5 @@
+Objetivo do projeto: 
+Projeto simples visando apenas uma aplicação de supermercado onde o banco de dados é salvo na memória mesmo através de uma List.
+- Cadastrar novos produtos
+- Listar todos os produtos
+- Realizar subtração dos produtos quando uma compra for realizada
