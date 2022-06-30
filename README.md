@@ -1,2 +1,2 @@
-# ConsoleCsharp
-Repositório criado para adição de pequenos projetos desenvolvidos em Csharp.
+# • ConsoleCsharp
+O atual repositório é apenas para adição de alguns pequenos consoles todos desenvolvidos em C#, explorando suas mútuas funcionalidades.
